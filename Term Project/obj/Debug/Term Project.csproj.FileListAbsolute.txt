@@ -1,0 +1,11 @@
+C:\Users\Nam Dang\Documents\School\CST TERM 3\Digi Pro stuff\Win 32\Term Project\Term Project\obj\Debug\Term Project.csprojAssemblyReference.cache
+C:\Users\Nam Dang\Documents\School\CST TERM 3\Digi Pro stuff\Win 32\Term Project\Term Project\obj\Debug\Term_Project.Properties.Resources.resources
+C:\Users\Nam Dang\Documents\School\CST TERM 3\Digi Pro stuff\Win 32\Term Project\Term Project\obj\Debug\Term Project.csproj.GenerateResource.cache
+C:\Users\Nam Dang\Documents\School\CST TERM 3\Digi Pro stuff\Win 32\Term Project\Term Project\obj\Debug\Term Project.csproj.CoreCompileInputs.cache
+C:\Users\Nam Dang\Documents\School\CST TERM 3\Digi Pro stuff\Win 32\Term Project\Term Project\bin\Debug\Term Project.exe.config
+C:\Users\Nam Dang\Documents\School\CST TERM 3\Digi Pro stuff\Win 32\Term Project\Term Project\bin\Debug\Term Project.exe
+C:\Users\Nam Dang\Documents\School\CST TERM 3\Digi Pro stuff\Win 32\Term Project\Term Project\bin\Debug\Term Project.pdb
+C:\Users\Nam Dang\Documents\School\CST TERM 3\Digi Pro stuff\Win 32\Term Project\Term Project\obj\Debug\Term Project.exe
+C:\Users\Nam Dang\Documents\School\CST TERM 3\Digi Pro stuff\Win 32\Term Project\Term Project\obj\Debug\Term Project.pdb
+C:\Users\Nam Dang\Documents\School\CST TERM 3\Digi Pro stuff\Win 32\Term Project\Term Project\obj\Debug\Term_Project.DefaultForm.resources
+C:\Users\Nam Dang\Documents\School\CST TERM 3\Digi Pro stuff\Win 32\Term Project\Term Project\obj\Debug\Term_Project.DisplayForm.resources
